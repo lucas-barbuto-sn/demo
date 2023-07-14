@@ -4,7 +4,7 @@ This is a simple readme file.
 
 ## Heading 2
 
-Some more text. Some more changes.
+This is bound to cause trouble.
 
 ### Branches
 
