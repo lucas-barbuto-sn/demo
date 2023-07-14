@@ -22,3 +22,6 @@ Like Pointers. HEAD is a special pointer that refers to the last commit on the c
 
 ... on our "updates" branch.
 
+### Tags
+
+Tags are labels you can apply to any commit.
