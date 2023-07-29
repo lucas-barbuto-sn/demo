@@ -1,6 +1,8 @@
 # Demo Project README
 
-This is a simple readme file.
+~/projects and ~/projects/demo are folders/repositories I created and used for
+the the GitHub Ultimate Udemy course, they can be destroyed after this is
+completed.
 
 ## Heading 2
 
@@ -25,3 +27,4 @@ Like Pointers. HEAD is a special pointer that refers to the last commit on the c
 ### Tags
 
 Tags are labels you can apply to any commit.
+
